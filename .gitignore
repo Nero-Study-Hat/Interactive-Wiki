@@ -1,0 +1,2 @@
+# Ignore nix flake generated .direnv dir
+/.direnv/
